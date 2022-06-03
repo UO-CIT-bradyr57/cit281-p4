@@ -17,4 +17,4 @@ I learned how to use Postman to test code modules. I also learned how to use RES
 
 Below is some sample code from the project, that highlights the main points and functions associated with it. 
 
-[Back to the Home Page](http://uo-cit-bradyr57.github.io/bradyr57.github.io/)
+### [Back to the Home Page](http://uo-cit-bradyr57.github.io/bradyr57.github.io/)
